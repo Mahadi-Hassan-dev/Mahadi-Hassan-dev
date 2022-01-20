@@ -17,7 +17,11 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahadi-hassan-dev&show_icons=true&locale=en&layout=compact" alt="mahadi-hassan-dev" /></p>
+<br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahadi-hassan-dev&show_icons=true&locale=en" alt="mahadi-hassan-dev" /></p>
+<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahadi-hassan-dev&" alt="mahadi-hassan-dev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahadi-hassan-dev&" alt="mahadi-hassan-dev" /></p>
+

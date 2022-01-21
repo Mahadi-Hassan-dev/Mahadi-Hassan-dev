@@ -13,11 +13,11 @@ Skills: PYTHON/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
 
 - 🌱 I’m currently learning **JavaScript, React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/harun181](https://github.com/Mahadi-Hassan-dev)
+- 👨‍💻 All of my projects are available at [https://github.com/Mahadi-Hassan-dev](https://github.com/Mahadi-Hassan-dev)
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap **
 
-- 📫 How to reach me **developerabir40@gmail.com**
+- 📫 How to reach me **abirk2day@gmail.com**
 
 - 📄 All About Me:[https://linktr.ee/developer-abir](https://www.linkedin.com/in/developer-abir/)
 

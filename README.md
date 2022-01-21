@@ -48,5 +48,7 @@ Skills: PYTHON/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahadi-Hassan-dev)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mahadi-Hassan-dev&show_icons=true&locale=en" alt="mahadi-hassan-dev" /></p>
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mahadi-Hassan-dev )  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?username=Mahadi-Hassan-dev )  
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mahadi-Hassan-dev )  

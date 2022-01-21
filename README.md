@@ -49,7 +49,7 @@ Skills: PYTHON/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mahadi-Hassan-dev&show_icons=true&locale=en" alt="mahadi-hassan-dev" /></p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Developer-Abir01)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mahadi-Hassan-dev)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mahadi-Hassan-dev )  
 
